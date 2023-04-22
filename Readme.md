@@ -7,13 +7,14 @@ Open the index.html file in your preferred web browser.
 Enjoy browsing my personal website!
 Technologies Used
 This website was built using the following technologies:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-HTML
-CSS
-JavaScript
-Bootstrap
-Features
-- This personal website includes the following features:
+
+- Features
+This personal website includes the following features:
 
 An "About" section
 A Resume section showcasing my projects and experince
